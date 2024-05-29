@@ -28,17 +28,14 @@ Check my [LinkedIn](https://www.linkedin.com/in/iyan-alvarez/) for detailed info
 
 ## Education 🎓
 
-### Bachelor's Degree in Informatics Engineering 
-**University of the Basque Country (UPV/EHU)** 
+### Bachelor's Degree in Informatics Engineering (UPV/EHU)
 - Mention: Computation
 
-### Erasmus Exchange Program  
-**KU Leuven**
+### Erasmus Exchange Program in Artificial Intelligence (KU Leuven)
 
 ## Experience 💼
 
 ### Programming Professor (Bachelor level)
-**Academia Elizalde**    
+**Academia Elizalde (November 2020 - Present)**    
 - Courses: Basic Programming (Ada) and Modular & Object-Oriented Programming (Java)
 - Achievements: High pass rate in exams, increased student interest in programming
-- Duration: November 2020 - Present
