@@ -28,13 +28,12 @@ Check my [LinkedIn](https://www.linkedin.com/in/iyan-alvarez/) for detailed info
 
 ## Education 🎓
 
-**Bachelor's Degree in Informatics Engineering**  
-*University of the Basque Country (UPV/EHU)*  
+### Bachelor's Degree in Informatics Engineering 
+**University of the Basque Country (UPV/EHU)** 
 - Mention: Computation
 
-**Exchange Program**  
-*Faculty of Engineering Science (Erasmus+), KU Leuven*  
-- Duration: September 2022 - February 2023
+### Erasmus Exchange Program  
+**KU Leuven**
 
 ## Experience 💼
 
