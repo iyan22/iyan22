@@ -1,16 +1,11 @@
 # Hi! I am Iyán Álvarez 🪴
-
-# Computer Science Student | Programming Teacher
-
-## 💡 About Me
-
 I am passionate about coding and teaching. The thrill of solving complex problems through programming drives me every day. I believe in the power of knowledge sharing, which is why I love teaching. Whether it's introducing beginners to the basics of programming or guiding advanced students through intricate concepts, I find immense satisfaction in helping others learn and grow. My aim is to inspire a new generation of coders who are as enthusiastic about technology as I am.
 
-Check [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iyan%20Alvarez-blue)](https://www.linkedin.com/in/iyan-alvarez/) for detailed infomation.
+Check my [LinkedIn](https://www.linkedin.com/in/iyan-alvarez/) for detailed infomation.
 
 ## Skills 🛠️
 
-### Programming Languages and Technologies
+### Programming Languages and Technologies 💻
 - **Java**: ⭐⭐⭐⭐⭐
 - **Python**: ⭐⭐⭐⭐⭐
 - **Matlab**: ⭐⭐⭐⭐⭐
@@ -18,21 +13,18 @@ Check [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iyan%20Alvarez-blue)](h
 - **R**: ⭐⭐⭐⭐
 - **SQL**: ⭐⭐⭐⭐
 
-### Tools and Technologies
-- **Version Control**: Git/GitHub
-- **Operating Systems**: Linux, macOS
-- **Office Suite**: Microsoft Office
 
-### Soft Skills
+### Soft Skills 🗣️
 - **Public Speaking**
 - **Presentations**
 - **Teamwork**
 - **Project Management**
 
-### Languages
+### Languages 🌐
 - **English**: Advanced (Cambridge - C1 )
 - **Spanish**: Native
 - **Basque**: Good
+- **German**: Basic (learning)
 
 ## Education 🎓
 
