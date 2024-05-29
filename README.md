@@ -1,8 +1,12 @@
 # Hi! I am Iyán Álvarez 🪴
 
-### Computer Science Student | Programming Teacher
+# Computer Science Student | Programming Teacher
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iyan%20Alvarez-blue)](https://www.linkedin.com/in/iyan-alvarez/)
+## 💡 About Me
+
+I am passionate about coding and teaching. The thrill of solving complex problems through programming drives me every day. I believe in the power of knowledge sharing, which is why I love teaching. Whether it's introducing beginners to the basics of programming or guiding advanced students through intricate concepts, I find immense satisfaction in helping others learn and grow. My aim is to inspire a new generation of coders who are as enthusiastic about technology as I am.
+
+Check [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iyan%20Alvarez-blue)](https://www.linkedin.com/in/iyan-alvarez/) for detailed infomation.
 
 ## Skills 🛠️
 
@@ -47,4 +51,3 @@
 - Courses: Basic Programming (Ada) and Modular & Object-Oriented Programming (Java)
 - Achievements: High pass rate in exams, increased student interest in programming
 - Duration: November 2020 - Present
-
